@@ -34,8 +34,8 @@ defmodule LiveViewStudio.MixProject do
   defp deps do
     [
       {:bcrypt_elixir, "~> 2.0"},
-      {:phoenix, "~> 1.5.10"},
-      {:phoenix_ecto, "~> 4.1"},
+      {:phoenix, "~> 1.5.13"},
+      {:phoenix_ecto, "~> 4.4"},
       {:ecto_sql, "~> 3.4"},
       {:postgrex, ">= 0.0.0"},
       {:phoenix_live_view, "~> 0.16.4"},
